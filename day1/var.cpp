@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int x;
-    x = 5;
+    int x; // declaration
+    x = 5; // initalization
     int y = 9;
     cout << x * y;
 }
